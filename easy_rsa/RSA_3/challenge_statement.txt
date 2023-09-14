@@ -1,0 +1,4 @@
+Alright, this is the big leagues. You have someone’s Public Key. This isn’t unusual, if you want to send someone an encrypted message,
+you have to have thier public key. Your job is to evaluate this public key, and obtain the value of the secret exponent or decryption
+exponent (The value of “d” in an RSA encryption).
+
